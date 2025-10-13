@@ -5,8 +5,8 @@
 
 ###  **Sobre mim:**  
 - 🎓 Bacharel em **Ciência da Computação** com a meta de chegar no mestrado (e quem sabe doutorado).  
-- 🧠 **Focada em:** Machine Learning, Análise de Dados utilizando `Python`, Arquitetura de Experiência do Usuário, Estatística e um toque de Inteligência Artificial. 
-- 🫰 **Gosto de** Explorar coisas novas, sair do óbvio,  trabalhar com equilíbrio e discutir ideias.
+- 🧠 **Focada em:** Machine Learning, Análise de Dados utilizando `Python`, Arquitetura de Experiência do Usuário, Design Thinking e um toque de Inteligência Artificial. 
+- 🫰 **Gosto de:** Explorar coisas novas, sair do óbvio,  trabalhar com equilíbrio e discutir ideias.
 - 💬 **Hobbies:** Games, animes, praticar esportes, explorar lugares e comidas. 
 
 
@@ -17,7 +17,7 @@
 
 💻🎧 **Linguagens que tenho experiência:** 
 
-![Python](https://img.shields.io/badge/-Python-FF69B4?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  ![SQL](https://img.shields.io/badge/-SQL-C8A2C8?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-FF69B4?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  ![SQL](https://img.shields.io/badge/-SQL-C8A2C8?style=flat&logo=postgresql) ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=ff71b5) 
 
 
 <p align="center">  
